@@ -4,12 +4,12 @@ import streamlit as st
 # CẤU HÌNH TRANG
 # ==============================
 st.set_page_config(
-    page_title="Tính lãi tiền gửi tiết kiệm",
+    page_title="Tính lãi tiền gửi tiết kiệm Khánh Xuân",
     page_icon="💰",
     layout="centered"
 )
 
-st.title("💰 APP TÍNH LÃI GỬI TIẾT KIỆM")
+st.title("💰 APP TÍNH LÃI GỬI TIẾT KIỆM KHÁNH XUÂN")
 st.write("Nhập thông tin khoản tiền gửi để tính tiền lãi.")
 
 # ==============================
